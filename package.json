@@ -16,7 +16,6 @@
     "webfontloader": "^1.6.28",
     "webfonts-loader": "^5.2.2"
   },
-  "proxy": "http://localhost:4000"
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
