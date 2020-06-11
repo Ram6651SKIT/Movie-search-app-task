@@ -159,7 +159,7 @@ function App() {
     const [data, setData] = useState(null);
     const [error, setError] = useState(null);
     const [loading, setLoading] = useState(false);
-    const [q, setQuery] = useState('batman');
+    const [q, setQuery] = useState('Hello');
     const [activateModal, setActivateModal] = useState(false);
     const [detail, setShowDetail] = useState(false);
     const [detailRequest, setDetailRequest] = useState(false);
